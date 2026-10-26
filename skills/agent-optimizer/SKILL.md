@@ -14,7 +14,7 @@ description: 根据工作日志与用户纠正，优化 AGENTS.md、技能和上
 
 ## 流程
 
-1. 读 `memory/worklog/` 最近记录、`memory/decisions.md`、`wiki/log.md`。
+1. 读 `memory/worklog/` 最近记录、`memory/重要决策.md`、`wiki/log.md`。
 2. 统计：
    - 被纠正 ≥ 2 次的问题
    - 每次都要重复解释的偏好
@@ -23,7 +23,7 @@ description: 根据工作日志与用户纠正，优化 AGENTS.md、技能和上
    - 改哪条规则、为什么、改成什么
    - 影响范围
    - 风险
-4. 用户确认后写入 `AGENTS.md` / 对应技能 / `memory/user-preferences.md`。
+4. 用户确认后写入 `AGENTS.md` / 对应技能 / `memory/用户偏好.md`。
 5. 在 `memory/worklog/` 记录本次优化。
 
 ## 约束

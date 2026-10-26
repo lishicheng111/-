@@ -9,7 +9,7 @@ description: 项目立项访谈。问清题材、基础、时间投入与首本�
 
 - 新项目启动
 - 用户说"我想写小说但不知道从哪开始"
-- `memory/project-brief.md` 或 `goals.md` 缺失
+- `memory/项目简报.md` 或 `goals.md` 缺失
 
 ## 流程
 
@@ -20,11 +20,11 @@ description: 项目立项访谈。问清题材、基础、时间投入与首本�
    - **产能**：每天能写多少字、多少小时？一年能断更几天？
    - **策略**：稳妥模仿爆款 / 差异化微创新 / 快速试错多开 / 长线精品？
 3. 把答案写入：
-   - `memory/project-brief.md`（背景与范围）
-   - `memory/goals.md`（按产能重算收入模型与里程碑）
-   - `memory/user-preferences.md`（题材、雷点、沟通偏好）
-   - `memory/decisions.md`（关键选择）
-   - `memory/open-questions.md`（没答上的）
+   - `memory/项目简报.md`（背景与范围）
+   - `memory/目标.md`（按产能重算收入模型与里程碑）
+   - `memory/用户偏好.md`（题材、雷点、沟通偏好）
+   - `memory/重要决策.md`（关键选择）
+   - `memory/待确认问题.md`（没答上的）
 4. 最后给出一页"立项结论"：推荐赛道、风险、下一步。
 
 ## 判定规则

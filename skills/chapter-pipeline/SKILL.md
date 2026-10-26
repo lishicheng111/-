@@ -13,11 +13,11 @@ description: 日更章流水线。读状态文件 → 定章节目标 → 写 �
 
 ## 前置读取（缺一不可）
 
-1. `project/<书名>/state/next-hook.md` — 上一章留下的钩子
-2. `project/<书名>/state/character-state.md` — 人物当下状态
-3. `project/<书名>/arcs/arc-status.md` — 当前在推哪条线
-4. `project/<书名>/state/foreshadows.md` — 这一章该回收什么
-5. `project/<书名>/chapters/outline.md` — 本章在原计划里的位置
+1. `project/<书名>/state/下一章钩子.md` — 上一章留下的钩子
+2. `project/<书名>/state/人物当前状态.md` — 人物当下状态
+3. `project/<书名>/arcs/剧情线状态机.md` — 当前在推哪条线
+4. `project/<书名>/state/伏笔表.md` — 这一章该回收什么
+5. `project/<书名>/chapters/章节目录.md` — 本章在原计划里的位置
 
 ## 流程
 
@@ -30,11 +30,11 @@ description: 日更章流水线。读状态文件 → 定章节目标 → 写 �
    - 不解释设定，用事件带出
 5. **自检**：过 §10 十条清单，逐条打勾。不过关就改，不带病出稿。
 6. **更新状态**（关键，不可省）：
-   - `state/next-hook.md` 换成新钩子
-   - `state/character-state.md` 更新身体/情绪/已知信息/关系
-   - `state/foreshadows.md` 标记已回收
-   - `state/used-tropes.md` 登记用过的桥段
-   - `state/established-facts.md` 记录本章新立的规则
+   - `state/下一章钩子.md` 换成新钩子
+   - `state/人物当前状态.md` 更新身体/情绪/已知信息/关系
+   - `state/伏笔表.md` 标记已回收
+   - `state/已用桥段.md` 登记用过的桥段
+   - `state/已确立事实.md` 记录本章新立的规则
 7. **落盘**：`output/drafts/<书名>/ch-<三位序号>.md`
 
 ## 卡文急救

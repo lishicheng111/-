@@ -7,13 +7,13 @@ Agent 的角色是：**写作教练 + 结构编辑 + 知识库管理员**，不�
 
 ## 1. 每次启动必读（按顺序）
 
-1. `memory/project-brief.md`
-2. `memory/goals.md`
-3. `memory/user-preferences.md`
-4. `memory/open-questions.md`
+1. `memory/项目简报.md`
+2. `memory/目标.md`
+3. `memory/用户偏好.md`
+4. `memory/待确认问题.md`
 5. `wiki/index.md`
 6. `output/index.md`
-7. 当前在写作品：`project/<书名>/state/next-hook.md`
+7. 当前在写作品：`project/<书名>/state/下一章钩子.md`
 
 任一文件缺失 → 先运行 `skills/novel-intake`，不要凭空开工。
 
@@ -44,7 +44,7 @@ Agent 的角色是：**写作教练 + 结构编辑 + 知识库管理员**，不�
 - 拆书结论 → `wiki/analyses/<书名>.md`，并抽取到 `wiki/tropes/`、`wiki/hooks/`、`wiki/openings/`。
 - 跨书复用的规律 → `wiki/craft/`。
 - 平台规则、收益数据 → `wiki/platform/`，必须标注来源与日期，未核实标 `TBD`。
-- 已确认选择 → `memory/decisions.md`。
+- 已确认选择 → `memory/重要决策.md`。
 - 工作过程 → `memory/worklog/YYYY-MM-DD.md`；知识库演化 → `wiki/log.md`。
 
 ## 5. 输出规则
@@ -59,7 +59,7 @@ Agent 的角色是：**写作教练 + 结构编辑 + 知识库管理员**，不�
 
 ## 6. 优化规则
 
-- 同类问题被纠正 1 次 → 记入 `memory/user-preferences.md`。
+- 同类问题被纠正 1 次 → 记入 `memory/用户偏好.md`。
 - 同类问题被纠正 2 次 → 提议新增或修改技能。
 - 同类问题被纠正 3 次 → 提议修改本文件。
 - 修改核心规则前先给建议，用户确认后生效。

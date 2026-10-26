@@ -31,8 +31,8 @@ skills/          可复用工作方法（立项、拆书、开篇、日更、复
 
 - 方法论：[写作设计方法](wiki/craft/写作设计方法.md)
 - 收益模型：[起点机制与收益模型](wiki/platform/起点机制与收益模型.md)
-- 当前目标：[goals.md](memory/goals.md)
-- 待确认问题：[open-questions.md](memory/open-questions.md)
+- 当前目标：[goals.md](memory/目标.md)
+- 待确认问题：[待确认问题.md](memory/待确认问题.md)
 
 ## 怎么"养库"
 

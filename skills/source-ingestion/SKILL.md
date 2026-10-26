@@ -30,7 +30,7 @@ description: 拆书入库。把一本样本作品拆成结构表、爽点表、�
 6. **写库**：
    - `wiki/analyses/<书名>.md`（完整拆解）
    - 抽 1–3 条通用规律进 `wiki/tropes/`、`wiki/hooks/`、`wiki/openings/`
-   - 在 `wiki/index.md`、`wiki/source-map.md` 登记
+   - 在 `wiki/index.md`、`wiki/来源映射.md` 登记
    - 更新 `wiki/log.md`
 7. **给结论**：这本书最值得抄的 3 个机制 + 最不该抄的 3 个毛病。
 
