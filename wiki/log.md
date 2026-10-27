@@ -65,3 +65,13 @@
   - `wiki/craft/plot/时间锁与空间锁.md`：时间限制+封闭空间
   - `wiki/craft/emotion/矛盾层层递进.md`：四层冲突结构
 - 更新 wiki/index.md
+
+## 2026-10-26（起点新人榜入库）
+
+- 抓取起点新人榜全站页前 18 名（https://m.qidian.com/rank/newauthor/）
+- 新建 `wiki/analyses/起点新人榜-2026-10.md`：全表（书名/作者/分类/字数/机制/可复用点）+ 赛道分布 + 6 条共性规律 + 对本项目 4 条启示 + 5 本待拆书清单
+- 抽出 3 个桥段零件入 `wiki/tropes/`：
+  - 设定-错位金手指（5 个变体）
+  - 视角-乐子人围观（3 个变体）
+  - 信息-反向信息差（3 个变体）
+- 更新 tropes/_index.md、wiki/index.md、来源映射.md
